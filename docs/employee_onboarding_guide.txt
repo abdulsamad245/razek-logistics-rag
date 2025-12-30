@@ -1,0 +1,28 @@
+Supplier Logistics Onboarding Guide
+
+1. Welcome
+
+This guide helps new suppliers integrate with our logistics platform.
+
+2. What You Need to Provide
+
+-   Company registration documents
+-   Tax identification
+-   Banking information for payments
+-   Logistics capability details
+-   Insurance certificates
+
+3. Platform Setup
+
+1.  Register on the Razek supplier portal.
+2.  Complete KYC verification.
+3.  Set up shipping preferences and carrier integrations.
+
+4. Support
+
+For issues, contact the supplier support team through the portal.
+
+5. Responsibilities
+
+Suppliers must maintain accurate inventory data, provide timely shipping updates, and comply
+with international trade regulations.

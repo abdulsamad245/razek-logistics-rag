@@ -1,0 +1,29 @@
+Logistics Document Manager Guide
+
+1. Overview
+
+Razek's Document Manager stores and organizes all documents linked to
+company shipments and logistics operations.
+
+2. Key Features
+
+-   Upload storage
+-   Version history
+-   Expiry reminders
+-   Shipment-linked document assignments
+
+3. Uploading Documents
+
+1.  Go to the shipment profile.
+2.  Select "Upload Document."
+3.  Choose type (bill of lading, customs declaration, insurance certificate).
+4.  Set expiry date if applicable.
+
+4. Versioning
+
+Each update creates a new version while preserving historical records.
+
+5. Expiry Management
+
+Razek sends automated notifications 30, 7, and 1 day before a document
+expires.

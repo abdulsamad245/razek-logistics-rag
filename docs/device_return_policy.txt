@@ -1,0 +1,37 @@
+Shipment Return & Retrieval Policy
+
+1. Purpose
+
+This policy outlines how shipments must be returned during
+supplier offboarding, contract completion, or product recalls.
+
+2. Return Scenarios
+
+-   Supplier contract termination
+-   Product quality issues requiring return
+-   Overstock or excess inventory returns
+-   Customer returns and reverse logistics
+
+3. Return Process
+
+3.1 Notification
+
+Procurement or quality control triggers a return workflow. The supplier or warehouse receives
+return authorization and shipping instructions.
+
+3.2 Documentation
+
+Logistics team ensures proper documentation including return authorization numbers,
+packing lists, and customs declarations if international.
+
+3.3 Pickup & Logistics
+
+Razek coordinates carrier pickup, tracking, and return confirmation to origin or designated facility.
+
+4. Non‑Compliance
+
+Undocumented returns may incur additional processing fees or delays.
+
+5. Condition Check
+
+Returned shipments undergo inspection, repackaging, or disposal based on condition and requirements.

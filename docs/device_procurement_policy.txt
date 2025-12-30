@@ -1,0 +1,43 @@
+Logistics Procurement Policy
+
+1. Purpose
+
+This policy defines the process for sourcing, approving, and arranging
+logistics services for shipments across global locations.
+
+2. Scope
+
+Applies to all company shipments including freight forwarding, warehousing,
+transportation, and customs clearance services.
+
+3. Procurement Process
+
+3.1 Service Requests
+
+Departments submit requests through the internal logistics portal, specifying
+shipment requirements, destinations, and timelines.
+
+3.2 Approval Workflow
+
+Logistics team validates service requirements. Finance reviews and approves
+budget allocations for shipping costs.
+
+3.3 Ordering
+
+Approved logistics services are procured through approved carriers and partners.
+All shipments are tracked and registered in the Razek system.
+
+3.4 Delivery
+
+Shipments are handled using Razek's logistics network and tracked until
+successful delivery to final destination.
+
+4. Documentation
+
+Invoices, bills of lading, customs declarations, and insurance documents must be uploaded to
+Razek's Logistics Document Manager.
+
+5. Risk Management
+
+Lost or damaged shipments must be reported within 24 hours. Claims are filed
+with insurance providers. Non-compliant shipments are documented and lessons learned.
