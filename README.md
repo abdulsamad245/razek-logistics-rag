@@ -1,5 +1,7 @@
 # Razek RAG System
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/abdulsamad245/razek-logistics-rag)
+
 A Retrieval-Augmented Generation (RAG) system for querying internal company documents using natural language. This application allows users to ask questions about Razek's processes, policies, and operations based on the company's documentation.
 
 ## Features
@@ -18,7 +20,7 @@ graph TB
     B --> C[Retriever]
     C --> D[ChromaDB Vector Store]
     D --> E[Relevant Documents]
-    E --> F[LLM (GPT-4)]
+    E --> F[LLM GPT-4]
     F --> G[Generated Answer]
     B --> H[Ingestion Pipeline]
     H --> I[Document Loader]
@@ -70,8 +72,8 @@ graph TB
 
 1. **Clone or download the repository**
    ```bash
-   git clone <repository-url>
-   cd rag-system
+   git clone https://github.com/abdulsamad245/razek-logistics-rag.git
+   cd razek-logistics-rag
    ```
 
 2. **Create a virtual environment** (recommended)
